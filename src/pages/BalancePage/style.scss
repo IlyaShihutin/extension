@@ -1,0 +1,13 @@
+.balance {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+  &_address {
+    width: 100%;
+    word-wrap: break-word;
+  }
+}

@@ -1,0 +1,37 @@
+.passphrase {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  .note {
+    position: absolute;
+    top: 32px;
+    left: 50%;
+    transform: translate(-50%, 0%);
+  }
+
+  &_wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  &_title {
+    margin-bottom: 30px;
+    text-align: center;
+  }
+
+  &_list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 17px;
+    margin-bottom: 30px;
+
+    .input {
+      width: 30%;
+      text-align: center;
+    }
+  }
+}
