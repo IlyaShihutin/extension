@@ -16,15 +16,15 @@
       "http://*/*"
   ],
   "icons": {
-    "16": "vite.svg",
-    "48": "vite.svg",
-    "128": "vite.svg"
+    "16": "image.png",
+    "48": "image.png",
+    "128": "image.png"
   },
   "browser_action": {
     "default_icon": {
-      "16": "vite.svg",
-      "48": "vite.svg",
-      "128": "vite.svg"
+      "16": "image.png",
+      "48": "image.png",
+      "128": "image.png"
     }
   }
 }
