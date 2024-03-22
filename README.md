@@ -1,5 +1,5 @@
 # React + TypeScript + Vite
 
-Install: npm install
-Run: npm run dev
-Build: npm run build
+## Install: npm install.
+## Run: npm run dev.
+## Build: npm run build.
